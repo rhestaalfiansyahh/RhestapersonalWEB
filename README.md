@@ -61,13 +61,13 @@ Website ini adalah personal web milik Adam Faturrachman yang menampilkan artikel
 ![Login](screenshots/login.png)
 
 ### 5. Dashboard Admin  
-![Dashboard](screenshots/dashboar dadmin.png)
+![Dashboard](screenshots/dashboardadmin.png)
 
 ### 6. Kelola Artikel 
-![Kelola Artikel](screenshots/kelolaar tikel.png)
+![Kelola Artikel](screenshots/kelolaartikel.png)
 
 ### 7. Kelola Gallery 
-![Kelola Gallery](screenshots/kelola gallery.png)
+![Kelola Gallery](screenshots/kelolagallery.png)
 
 ---
 
