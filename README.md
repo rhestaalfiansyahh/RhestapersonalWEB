@@ -1,4 +1,4 @@
-# 🌐 Personal Web | Rafli aditia
+# 🌐 Personal Web | Rhesta Alfiansyah
 
 Berbagi cerita, ide, dan inspirasi melalui tulisan dan galeri pribadi.  
 Dibuat sebagai proyek pembelajaran menggunakan PHP, Tailwind CSS, dan MySQL.
@@ -49,19 +49,25 @@ Website ini adalah personal web milik Adam Faturrachman yang menampilkan artikel
 ## 📷 Screenshot Tampilan
 
 ### 1. Artikel  
-![Artikel](screenshoot/artikel.png)
+![Artikel](screenshots/artikel.png)
 
 ### 2. Galeri Foto  
-![Galeri](screenshoot/gallery.png)
+![Galeri](screenshots/gallery.png)
 
 ### 3. Tentang Saya  
-![About](screenshoot/about.png)
+![About](screenshots/about.png)
 
 ### 4. Form Login Admin  
-![Login](screenshoot/login.png)
+![Login](screenshots/login.png)
 
 ### 5. Dashboard Admin  
-![Dashboard](screenshoot/admin.png)
+![Dashboard](screenshots/dashboardadmin.png)
+
+### 6. Kelola Artikel 
+![Kelola Artikel](screenshots/kelolaartikel.png)
+
+### 7. Kelola Gallery 
+![Kelola Gallery](screenshots/kelolagallery.png)
 
 ---
 
@@ -101,7 +107,6 @@ Website ini adalah personal web milik Adam Faturrachman yang menampilkan artikel
 │
 ├── images/
 ├── about.php
-├── db_rafli_d1a240049.sql
 ├── gallery.php
 ├── index.php
 └── koneksi.php
